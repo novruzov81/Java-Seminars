@@ -1,9 +1,7 @@
-package Seminar1;
-//Вычислить n-ое треугольного число (сумма чисел от 1 до n), n! (произведение чисел от 1 до n)
 
-public class Task1 {
+public class Main {
     public static void main(String[] args) {
-        int n = 6; // Переменная n, для которой нужно вычислить треугольное число и факториал
+        int n = 5; // Переменная n, для которой нужно вычислить треугольное число и факториал
 
         int triangleNumber = calculateTriangleNumber(n);
         int factorial = calculateFactorial(n);
@@ -32,3 +30,4 @@ public class Task1 {
         return factorial;
     }
 }
+
