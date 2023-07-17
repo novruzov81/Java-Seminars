@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57521fb2-150b-4ba8-8013-bf0aa659ee13" name="Changes" comment="Seminar4">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar5/Task1.java" afterDir="false" />
+    <list default="true" id="57521fb2-150b-4ba8-8013-bf0aa659ee13" name="Changes" comment="Seminar5">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar6/Task1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -160,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689330839221</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Seminar5">
+      <created>1689600550020</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1689600550020</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -168,6 +175,7 @@
     <MESSAGE value="Seminar2" />
     <MESSAGE value="Seminar3" />
     <MESSAGE value="Seminar4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Seminar4" />
+    <MESSAGE value="Seminar5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seminar5" />
   </component>
 </project>
